@@ -1,0 +1,9 @@
+[0.001][INFO]:      ChromeDriver 20.0.1133.0 c:\Users\N61j\Documents\Visual Studio 2010\Projects\SignageStudio\SignageStudio.Agent\chromedriver.exe
+[8.025][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "javascriptEnabled": true,
+   "platform": "WINDOWS",
+   "version": ""
+}
+
+[8.026][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --homepage=about:blank
